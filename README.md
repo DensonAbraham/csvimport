@@ -12,4 +12,4 @@ ejs
 mysql   
 
 ### DEMO  
-<img src="assests/demo.gif" width="40" height="40" />
+<img src="assests/demo.gif" width="640" height="480" />
